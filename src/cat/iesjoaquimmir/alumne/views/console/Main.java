@@ -51,7 +51,7 @@ public class Main {
         }while(n>0 && n<6);
         
         
-        //netejar memoria al finalitzar el programa
+        
         System.exit(0);
         System.gc();
     }
